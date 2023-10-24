@@ -6,6 +6,8 @@ The CAD folder contains SLDPRT files, DXF files of 2D sheet metal components and
 
 For documentation on the Viam Rover unboxing and setup visit [here](https://docs.viam.com/try-viam/rover-resources/rover-tutorial/).
 
+The Viam Rover 1.0 repo can be found [here](https://github.com/viamrobotics/Rover-VR1).
+
 
 ## License 
 Copyright 2022-2023 Viam Inc.
