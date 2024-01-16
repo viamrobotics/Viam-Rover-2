@@ -2,9 +2,9 @@
 
 This repo contains the CAD files (in Solidworks format) and bill-of-materials (BOM) relating to Viam Rover 2.0. 
 
-The CAD folder contains SLDPRT files, DXF files of 2D sheet metal components and a [full assembly in STEP format](https://github.com/viamrobotics/VR1-22-A001/blob/master/CAD/VR1-22-A001.STEP). You can also find the STL assembly of the Viam Rover [here](https://drive.google.com/file/d/1zAmt8tSdFXghSNv3OntW627MksGu3Onb/view?usp=share_link).
+The CAD folder contains SLDPRT files, DXF files of 2D sheet metal components and a [full assembly in STEP format](https://www.viam.com). You can also find the STL assembly of the Viam Rover [here](https://www.viam.com).
 
-For documentation on the Viam Rover unboxing and setup visit [here](https://docs.viam.com/try-viam/rover-resources/rover-tutorial/).
+For documentation on the Viam Rover unboxing and setup visit [here](https://docs.viam.com/get-started/try-viam/rover-resources/rover-tutorial/).
 
 The Viam Rover 1.0 repo can be found [here](https://github.com/viamrobotics/Rover-VR1).
 
