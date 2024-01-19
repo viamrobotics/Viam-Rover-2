@@ -1,6 +1,6 @@
 # Viam Rover 2.0 CAD files and BOM
 
-This repo contains the CAD files (in Solidworks format) and bill-of-materials (BOM) relating to Viam Rover 2.0. 
+This repo contains the CAD files (in Solidworks format), bill-of-materials (BOM) and PCB data relating to Viam Rover 2.0. 
 
 The CAD folder contains SLDPRT files, DXF files of 2D sheet metal components and a [full assembly in STEP format](https://www.viam.com). You can also find the STL assembly of the Viam Rover [here](https://www.viam.com).
 
